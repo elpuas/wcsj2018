@@ -1,0 +1,8 @@
+body.home header {
+    background: linear-gradient(to bottom right, rgba(199, 233, 250, .5), white);
+}
+
+.entry-content h2 {
+    font-weight: 800;
+    color: var(--primary-color);
+}
