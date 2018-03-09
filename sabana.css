@@ -6,3 +6,9 @@ body.home header {
     font-weight: 800;
     color: var(--primary-color);
 }
+
+.sjwc2018-row {
+    display: grid;
+    grid-column-gap: 20px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
